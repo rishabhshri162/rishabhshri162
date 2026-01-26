@@ -13,6 +13,5 @@
 
 
 - 📫 How to reach me *rishabhshrivastava@zohomail.com*
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rishabhshri162&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true)
+
 
