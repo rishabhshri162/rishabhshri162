@@ -1,4 +1,3 @@
-![](https://komarev.com/ghpvc/?username=rishabhshri162)
 <!-- Animated Name Heading -->
 <h1 align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=1AF700&center=true&vCenter=true&width=550&lines=Hi+I'm+Rishabh;JAVA+FULL+STACK+ENGINEER" alt="Typing SVG" />
