@@ -1,75 +1,98 @@
-<div align="center">
 
-<!-- Animated Heading -->
-<h1>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=1AF700&center=true&vCenter=true&width=600&lines=Hi+I'm+Rishabh;Java+Full+Stack+Engineer" />
-</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,800:8A2BE2&height=220&section=header&text=Rishabh%20Shrivastava&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+</p>
 
-<!-- Animated Skills Line -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Java+%7C+Spring+Boot+%7C+Angular+%7C+REST+APIs+%7C+Microservices" />
+<p align="center">
+ <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Java+%7C+Spring+Boot+%7C+Angular+%7C+REST+APIs+%7C+Microservices" />
+</p>
 
-<br/><br/>
+<h3 align="center">🚀 Aspiring DevOps Engineer | Cloud & Automation Enthusiast</h3>
 
-<img src="https://img.shields.io/badge/🚀%20Open%20Source-Contributor-blueviolet?style=for-the-badge&logo=github&logoColor=white" />
 
-</div>
 
 ---
 
-### 📫 Contact
-- rishabhshrivastava@zohomail.com
+## 🌟 About Me
+
+I am an aspiring DevOps Engineer with hands-on experience in both Frontend Development and DevOps practices. I enjoy building responsive user interfaces using modern web technologies and designing scalable, automated cloud infrastructure. My journey combines development and operations, allowing me to understand applications from end-to-end — from writing clean frontend code to deploying containerized applications using CI/CD pipelines. I am passionate about cloud computing, automation, and continuously improving system reliability through modern DevOps methodologies.
 
 ---
 
-## 🛠️ Tech Stack
+## 💻 Languages & Frameworks
 
-### Languages & Frameworks
-<div align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="50"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" width="50"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="50"/>
-</div>
+<p>
+<img src="https://skillicons.dev/icons?i=java,springboot,angular,js" />
+</p>
 
 ---
 
-### Cloud & DevOps
-<div align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="60"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="60"/>
-<img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="50"/>
-<img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="50"/>
-</div>
+## ☁️ Cloud & DevOps Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=linux,git,github,gitlab,jenkins,docker,kubernetes,aws" />
+</p>
 
 ---
 
 ### Databases
-<div align="center">
+<p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="50"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="50"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="50"/>
-</div>
+<p>
+
+---
+
+<table align="center" border="0" style="border:none;">
+<tr>
+<td width="50%" align="left" style="border:none;">
+
+## 🌱 Current Learning
+
+- 🚀 DevOps Engineering  
+- 🐳 Docker & Kubernetes Advanced Concepts 
+- ☁️ Terraform Infrastructure Automation  
+- 🤖 Cloud Security Best Practices     
+
+</td>
+
+<td width="50%" align="right" style="border:none;">
+
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="500" style="border:none;"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 📊 GitHub Stats
-<div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=rishabhshri162&theme=dark&hide_border=true" />
-<br/>
-<img src="https://nirzak-streak-stats.vercel.app/?user=rishabhshri162&theme=dark&hide_border=true" />
-<br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishabhshri162&theme=dark&hide_border=true&layout=compact" />
-
-</div>
-
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=rishabhshri162&theme=radical&hide_border=true" height="170"/>
+</p>
 
 ---
 
-<h2 align="center">🌐 Connect With Me</h2>
+## 💼 Featured Projects
 
-<a href="mailto:rishabhshrivastava@zohomail.com">
-<img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+🔹 CI/CD Pipeline using Jenkins & Docker  
+🔹 Kubernetes Deployment Project  
+🔹 Terraform Infrastructure Setup  
+🔹 AWS Cloud Architecture Project  
+
+---
+
+## 🌐 Connect With Me
+
+
+<p align="center">
+
+<a href="mailto:rishabhshrivastava@zohomail.com@gmail.com">
+<img src="https://img.shields.io/badge/Email-SEND%20MAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 </p>
+
+
+
