@@ -7,7 +7,7 @@
  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Java+%7C+Spring+Boot+%7C+Angular+%7C+REST+APIs+%7C+Microservices" />
 </p>
 
-<h3 align="center">🚀 Aspiring DevOps Engineer | Cloud & Automation Enthusiast</h3>
+<h3 align="center">🚀From API to deployment — I build systems that survive real users</h3>
 
 
 
@@ -15,14 +15,18 @@
 
 ## 🌟 About Me
 
-I am an aspiring DevOps Engineer with hands-on experience in both Frontend Development and DevOps practices. I enjoy building responsive user interfaces using modern web technologies and designing scalable, automated cloud infrastructure. My journey combines development and operations, allowing me to understand applications from end-to-end — from writing clean frontend code to deploying containerized applications using CI/CD pipelines. I am passionate about cloud computing, automation, and continuously improving system reliability through modern DevOps methodologies.
+I am a Java Full Stack Developer with experience in building scalable web applications and working with modern cloud and DevOps tools. I develop backend systems using Spring Boot, design RESTful APIs, and build responsive frontends using Angular.
+
+Alongside development, I work with containerization, CI/CD pipelines, and cloud platforms to deploy and manage applications efficiently. My approach focuses on building systems that are not only functional but also scalable, maintainable, and production-ready.
+
+I aim to bridge the gap between development and operations by applying DevOps practices to real-world applications, ensuring smooth deployment, automation, and reliability.
 
 ---
 
 ## 💻 Languages & Frameworks
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,springboot,angular,js" />
+<img src="https://skillicons.dev/icons?i=java,spring,angular,js" />
 </p>
 
 ---
@@ -93,6 +97,4 @@ I am an aspiring DevOps Engineer with hands-on experience in both Frontend Devel
 <img src="https://img.shields.io/badge/Email-SEND%20MAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 </p>
-
-
 
