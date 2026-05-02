@@ -63,3 +63,13 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishabhshri162&theme=dark&hide_border=true&layout=compact" />
 
 </div>
+
+
+---
+
+<h2 align="center">🌐 Connect With Me</h2>
+
+<a href="mailto:rishabhshrivastava@zohomail.com">
+<img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+</p>
