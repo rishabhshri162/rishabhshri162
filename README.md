@@ -78,16 +78,6 @@ I aim to bridge the gap between development and operations by applying DevOps pr
 </p>
 
 ---
-
-## 💼 Featured Projects
-
-🔹 CI/CD Pipeline using Jenkins & Docker  
-🔹 Kubernetes Deployment Project  
-🔹 Terraform Infrastructure Setup  
-🔹 AWS Cloud Architecture Project  
-
----
-
 ## 🌐 Connect With Me
 
 
