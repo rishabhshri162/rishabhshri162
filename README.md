@@ -3,6 +3,7 @@
   <source media="(prefers-color-scheme: light)" srcset="./light.svg">
   <img src="./dark.svg" alt="Vaibhav Khushalani — AI Engineer, Full-Stack Engineer and AI & SaaS Builder">
 </picture>
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,800:8A2BE2&height=220&section=header&text=Rishabh%20Shrivastava&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 </p>
