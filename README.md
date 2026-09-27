@@ -77,6 +77,25 @@ I aim to bridge the gap between development and operations by applying DevOps pr
   <img src="https://github-readme-streak-stats.herokuapp.com?user=rishabhshri162&theme=radical&hide_border=true" height="170"/>
 </p>
 
+<h2 align="center">Contribution Activity</h2>
+
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/VaibhavKhushalani/github-snake/output/github-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/VaibhavKhushalani/github-snake/output/github-snake.svg"
+    />
+    <img
+      alt="GitHub Contribution Snake"
+      src="https://raw.githubusercontent.com/VaibhavKhushalani/github-snake/output/github-snake.svg"
+    />
+  </picture>
+</p>
+
 ---
 ## 🌐 Connect With Me
 
