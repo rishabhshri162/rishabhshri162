@@ -1,84 +1,160 @@
+# Hi, I'm Vaibhav Khushalani 👋
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./light.svg">
   <img src="./dark.svg" alt="Vaibhav Khushalani — AI Engineer, Full-Stack Engineer and AI & SaaS Builder">
 </picture>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,800:8A2BE2&height=220&section=header&text=Rishabh%20Shrivastava&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+  <b>AI Engineer · Full-Stack Engineer · Backend Systems · AI & SaaS Builder</b>
 </p>
 
 <p align="center">
- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Java+%7C+Spring+Boot+%7C+Angular+%7C+REST+APIs+%7C+Microservices" />
+  🤖 AI / LLMs &nbsp;·&nbsp; 🐍 Python &nbsp;·&nbsp; ⚡ AWS Lambda &nbsp;·&nbsp; ⚛️ React / Next.js
+  &nbsp;·&nbsp; ⚙️ Node.js &nbsp;·&nbsp; ☁️ AWS &nbsp;·&nbsp; 🧠 System Design
 </p>
 
-<h3 align="center">🚀From API to deployment — I build systems that survive real users</h3>
+I build **AI-powered products, scalable backend systems, SaaS platforms, automation workflows, and production web applications**.
 
-
-
----
-
-## 🌟 About Me
-
-I am a Java Full Stack Developer with experience in building scalable web applications and working with modern cloud and DevOps tools. I develop backend systems using Spring Boot, design RESTful APIs, and build responsive frontends using Angular.
-
-Alongside development, I work with containerization, CI/CD pipelines, and cloud platforms to deploy and manage applications efficiently. My approach focuses on building systems that are not only functional but also scalable, maintainable, and production-ready.
-
-I aim to bridge the gap between development and operations by applying DevOps practices to real-world applications, ensuring smooth deployment, automation, and reliability.
+My current engineering interests sit at the intersection of **AI/LLMs, Python, serverless systems, full-stack development, backend architecture, and developer automation**.
 
 ---
 
-## 💻 Languages & Frameworks
+## 🤖 What I Build
 
-<p>
-<img src="https://skillicons.dev/icons?i=java,spring,angular,js" />
-</p>
-
----
-
-## ☁️ Cloud & DevOps Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=linux,git,github,gitlab,jenkins,docker,kubernetes,aws" />
-</p>
+- 🧠 **AI / LLM applications** — LLM integrations, AI workflows and intelligent product features
+- 🐍 **Python systems** — APIs, automation, AI services and backend tooling
+- ⚡ **AI bots & serverless workflows** — AWS Lambda-powered automation and AI processing
+- 🚀 **SaaS products** — multi-user applications, dashboards, payments and product infrastructure
+- ⚙️ **Backend systems** — APIs, async processing, caching, real-time systems and integrations
+- ⚛️ **Full-stack applications** — React, Next.js, Node.js and TypeScript
+- 📈 **Performance & scalability** — production optimization, high-volume processing and system design
 
 ---
 
-### Databases
-<p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="50"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="50"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="50"/>
-<p>
+## 💼 Experience
+
+### Software Engineer III — Forrester Research
+**May 2026 – Present**
+
+Working across modern product engineering with a growing focus on **AI engineering and intelligent automation**.
+
+- Building production applications with **React, Next.js and TypeScript**
+- Working with **Python and AI/LLM technologies**
+- Exploring and building **AI bots / intelligent automation workflows**
+- Working with **AWS Lambda and serverless architectures**
+- Integrating APIs and building resilient application workflows
+- Working with **React Query, PostgreSQL, Turso, Drizzle and modern cloud tooling**
+- Focused on scalable architecture, developer productivity and production-quality systems
+
+### Software Developer — Hestabit Technologies
+**Jul 2025 – May 2026**
+
+- Worked on modern web applications and product engineering initiatives
+- Built interfaces and integrations using JavaScript / TypeScript technologies
+- Contributed to production application development and engineering workflows
+
+### Software Developer — SellersCommerce
+**Mar 2023 – Jul 2025**
+
+- Built high-throughput systems processing **100k+ records per run**
+- Developed REST APIs, billing workflows and Shopify integrations
+- Worked on microfrontend architecture across multiple teams
+- Improved application performance through SSR, caching and system optimization
+- Built production workflows around scalable e-commerce infrastructure
+
+### Software Developer — Kylo Apps
+**Jan 2022 – Mar 2023**
+
+- Built full-stack MERN applications, dashboards and admin panels
+- Developed reusable UI systems and frontend architecture
+- Improved performance using lazy loading and application optimization
 
 ---
 
-<table align="center" border="0" style="border:none;">
-<tr>
-<td width="50%" align="left" style="border:none;">
+## 🧩 Featured Projects
 
-## 🌱 Current Learning
+### 🔥 ArtGenio — AI Platform
+[artgenio.com](https://artgenio.com)
 
-- 🚀 DevOps Engineering  
-- 🐳 Docker & Kubernetes Advanced Concepts 
-- ☁️ Terraform Infrastructure Automation  
-- 🤖 Cloud Security Best Practices     
+AI-powered platform combining an **AI prompt marketplace, Creator Hub and multiple AI tools**.
 
-</td>
+- AI-powered creator workflows
+- Subscription + one-time payments
+- Razorpay + PayPal
+- Admin dashboard and analytics
+- SEO-focused content architecture
+- **Next.js · MongoDB · Gemini API · AI workflows**
 
-<td width="50%" align="right" style="border:none;">
+### 🚀 EasyFolio — Portfolio SaaS
+[Live Demo](https://easyfolio.wuwb.in/vaibhav_khushalani)
 
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="500" style="border:none;"/>
+- Multi-user portfolio builder
+- Admin / sub-admin roles
+- Multiple portfolio themes
+- PDF CV parsing
+- Cloudinary uploads
+- **Next.js · Turso/libSQL · Drizzle ORM · NextAuth**
 
-</td>
-</tr>
-</table>
+### ⚡ Real-Time Multiplayer Tic Tac Toe
+[GitHub Repository](https://github.com/VaibhavKhushalani/tic-tac-toe)
+
+- WebSocket-based multiplayer architecture
+- Room-based synchronization
+- Server-authoritative game state
+- **Node.js · Socket.IO**
+
+### 🌐 WUWB — Goal Tracking Platform
+[wuwb.in](https://wuwb.in)
+
+- Full-stack goal tracking platform
+- User interaction and dynamic application workflows
+- **React · Node.js · Express · MongoDB**
 
 ---
 
-## 📊 GitHub Stats
+## 🛠️ Engineering Stack
+
+### 🤖 AI / Machine Learning
+`Python` `LLMs` `AI Agents` `AI Bots` `Gemini API` `LangChain` `FAISS` `LLM APIs` `AI Automation`
+
+### ⚛️ Frontend
+`React` `Next.js` `TypeScript` `JavaScript` `Redux` `React Query` `Tailwind CSS` `Material UI`
+
+### ⚙️ Backend
+`Node.js` `Express` `FastAPI` `REST APIs` `GraphQL` `Socket.IO`
+
+### 🗄️ Databases
+`PostgreSQL` `MongoDB` `Redis` `Turso / libSQL` `Drizzle ORM`
+
+### ☁️ Cloud / DevOps
+`AWS` `AWS Lambda` `Docker` `Nginx` `GitHub Actions` `Vercel`
+
+### 🧠 Architecture
+`System Design` `Microfrontends` `API Architecture` `Real-time Systems` `Async Workflows` `Caching` `Performance Optimization`
+
+---
+
+## ✍️ Technical Writing
+
+I write about **backend engineering, AI products, performance and real-world engineering challenges**.
+
+- Real-time systems with Socket.IO
+- Node.js performance optimization
+- AI product architecture
+- LLM-powered applications
+- Subscription and payment systems
+- Production debugging and optimization
+
+[Read my articles on Medium →](https://medium.com/@vaibhavkhushalani)
+
+---
+
+## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=rishabhshri162&theme=radical&hide_border=true" height="170"/>
+  <img src="https://gh-readme-profile.vercel.app/api?username=VaibhavKhushalani&hide=forks,prs_merged,issues,contributed" alt="GitHub profile statistics">
 </p>
 
 <h2 align="center">Contribution Activity</h2>
@@ -101,13 +177,14 @@ I aim to bridge the gap between development and operations by applying DevOps pr
 </p>
 
 ---
-## 🌐 Connect With Me
 
+## 📫 Connect With Me
 
-<p align="center">
-
-<a href="mailto:rishabhshrivastava@zohomail.com@gmail.com">
-<img src="https://img.shields.io/badge/Email-SEND%20MAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<p>
+  💼 <a href="https://www.linkedin.com/in/vaibhav-khushalani-760217136/">LinkedIn</a><br>
+  🌐 <a href="https://easyfolio.wuwb.in/vaibhav_khushalani">Portfolio</a><br>
+  📝 <a href="https://medium.com/@vaibhavkhushalani">Medium</a><br>
+  📧 <a href="mailto:vaibhavkhushlani04@gmail.com">Email</a>
 </p>
 
+> **Build things. Automate the boring parts. Scale what matters.**
