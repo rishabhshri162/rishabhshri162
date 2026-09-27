@@ -2,9 +2,14 @@
 
 
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,800:8A2BE2&height=220&section=header&text=Rishabh%20Shrivastava&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
-</p>
+</p> -->
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./dark.svg">
+  <img src="./dark(4).svg" alt="Vaibhav Khushalani — AI Engineer, Full-Stack Engineer and AI & SaaS Builder">
+</picture>
 
 <p align="center">
  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Java+%7C+Spring+Boot+%7C+Angular+%7C+REST+APIs+%7C+Microservices" />
