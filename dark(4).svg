@@ -9723,7 +9723,7 @@
     <!-- Terminal Prompt Line -->
     <g transform="translate(20, 48)" class="font-mono" font-size="13">
       <text x="0" y="0" font-weight="bold">
-        <tspan fill="#3b82f6">vaibhav@developer</tspan><tspan fill="#64748b">:~#</tspan> <tspan fill="#e2f1ff">./profile.sh</tspan>
+        <tspan fill="#3b82f6">rishabh@developer</tspan><tspan fill="#64748b">:~#</tspan> <tspan fill="#e2f1ff">./profile.sh</tspan>
       </text>
     </g>
 
@@ -9732,28 +9732,28 @@
       <!-- Name -->
       <text x="0" y="0" class="label-cyan">&gt; Name</text>
       <text x="56" y="0" class="muted-dots">............................</text>
-      <text x="175" y="0" class="white-text" font-weight="500">Vaibhav Khushalani</text>
+      <text x="175" y="0" class="white-text" font-weight="500">Rishabh Shrivastava</text>
 
       <!-- Role -->
       <text x="0" y="20" class="label-cyan">&gt; Role</text>
       <text x="56" y="20" class="muted-dots">............................</text>
-      <text x="175" y="20" class="white-text">AI Engineer · Full-Stack Engineer</text>
+      <text x="175" y="20" class="white-text">Full-Stack Engineer</text>
 
       <!-- Location -->
       <text x="0" y="40" class="label-cyan">&gt; Location</text>
       <text x="82" y="40" class="muted-dots">........................</text>
-      <text x="175" y="40" class="white-text">AI / LLMs · Python · AWS</text>
+      <text x="175" y="40" class="white-text">India</text>
 
       <!-- Experience -->
       <text x="0" y="60" class="label-cyan">&gt; Experience</text>
       <text x="96" y="60" class="muted-dots">......................</text>
-      <text x="175" y="60" class="white-text">Software Engineer III</text>
+      <text x="175" y="60" class="white-text">2 years</text>
 
       <!-- Stack -->
       <text x="0" y="80" class="label-cyan">&gt; Stack</text>
       <text x="64" y="80" class="muted-dots">..........................</text>
-      <text x="175" y="80" class="white-text">Python, React, Next.js, Node.js, AWS</text>
-      <text x="175" y="97" class="white-text">TypeScript, PostgreSQL, MongoDB, Lambda</text>
+      <text x="175" y="80" class="white-text">Anguular, Spring Boot, REST API. Microservices</text>
+      <text x="175" y="97" class="white-text">Kafka, Docker, CI/CD, AWS</text>
 
       <!-- Focus -->
       <text x="0" y="125" class="label-cyan">&gt; Focus</text>
@@ -9763,7 +9763,7 @@
       <!-- Interests -->
       <text x="0" y="147" class="label-cyan">&gt; Interests</text>
       <text x="88" y="147" class="muted-dots">......................</text>
-      <text x="175" y="147" class="white-text">AI/LLMs, automation, system design</text>
+      <text x="175" y="147" class="white-text">automation, system design</text>
     </g>
 
   
@@ -9778,7 +9778,7 @@
       </g>
       <text x="36" y="21" class="label-cyan">GitHub</text>
       <text x="96" y="21" class="muted-dots">.......................</text>
-      <text x="175" y="21" class="white-text">github.com/VaibhavKhushalani</text>
+      <text x="175" y="21" class="white-text">github.com/rishabhshri162</text>
 
      
     <!-- Live data flow -->
@@ -9800,7 +9800,7 @@
     <!-- Bottom Active Terminal Prompt Line with Blinking Cursor -->
     <g transform="translate(20, 478)" class="font-mono" font-size="12.5">
       <text x="0" y="0">
-        <tspan fill="#3b82f6" font-weight="bold">vaibhav@developer</tspan><tspan fill="#64748b">:~#</tspan>
+        <tspan fill="#3b82f6" font-weight="bold">rishabh@developer</tspan><tspan fill="#64748b">:~#</tspan>
       </text>
       <rect x="150" y="-11" width="7.5" height="13" fill="#ffffff" class="cursor-blink"/>
     </g>
