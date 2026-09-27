@@ -1,7 +1,4 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./dark.svg">
-  <img src="./dark(4).svg" alt="Vaibhav Khushalani — AI Engineer, Full-Stack Engineer and AI & SaaS Builder">
-</picture>
+
 
 
 
