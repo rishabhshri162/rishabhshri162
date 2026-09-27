@@ -9752,7 +9752,7 @@
       <!-- Stack -->
       <text x="0" y="80" class="label-cyan">&gt; Stack</text>
       <text x="64" y="80" class="muted-dots">..........................</text>
-      <text x="175" y="80" class="white-text">Anguular, Spring Boot, REST API. Microservices</text>
+      <text x="175" y="80" class="white-text">Angular, Spring Boot, REST API. Microservices</text>
       <text x="175" y="97" class="white-text">Kafka, Docker, CI/CD, AWS</text>
 
       <!-- Focus -->
